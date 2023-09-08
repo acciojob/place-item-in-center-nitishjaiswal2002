@@ -2,14 +2,11 @@
 /* Your CSS Code here. */
 .holder{
 	display:flex;
-	width:100px;
-	height:100px;
+	width:100vw;
+	height:100vh;
+align-item:center;
 }
 .item-1{
-	display:flex;
-	justify-content:space between;
-	height:100px;
 	width:100px;
 	background:red;
-	align-items:center;
 }
