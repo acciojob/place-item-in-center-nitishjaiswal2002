@@ -4,9 +4,10 @@
 	display:flex;
 	width:100vw;
 	height:100vh;
-align-item:center;
+	justify-content:center;
 }
 .item-1{
+	height:100px;
 	width:100px;
 	background:red;
 }
