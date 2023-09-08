@@ -2,6 +2,8 @@
 /* Your CSS Code here. */
 .holder{
 	display:flex;
+	width:100px;
+	height:100px;
 }
 .item-1{
 	display:flex;
